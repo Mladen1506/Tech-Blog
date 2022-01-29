@@ -23,6 +23,13 @@ Seed DB;
 Start Server;     
 `npm start server`
 
+damp-gorge-56611
+Node.js
+•
+heroku-20
+•
+United States
+
 ## License
 
 MIT License
